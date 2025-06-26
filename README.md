@@ -3,8 +3,8 @@
 > A curated collection of the best free machine learning courses, books, tutorials, and resources for learners at all levels.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/username/awesome-ml-resources.svg)](https://github.com/username/awesome-ml-resources/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/username/awesome-ml-resources.svg)](https://github.com/username/awesome-ml-resources/network)
+[![GitHub stars](https://img.shields.io/github/stars/mr-cyber-x/awesome-ml-resources.svg)](https://github.com/username/awesome-ml-resources/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mr-cyber-x/awesome-ml-resources.svg)](https://github.com/username/awesome-ml-resources/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🎯 Quick Start Guide
