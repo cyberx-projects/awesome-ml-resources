@@ -7,30 +7,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/mr-cyber-x/awesome-ml-resources.svg)](https://github.com/username/awesome-ml-resources/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 🎯 Quick Start Guide
-
-- **Complete Beginner?** Start with [Mathematics Foundation](#mathematics-foundation)
-- **Have Programming Experience?** Jump to [Machine Learning Courses](#machine-learning-courses)
-- **Want Hands-on Practice?** Check out [Practical Projects](#practical-projects)
-- **Looking for Specialization?** Explore [Advanced Topics](#advanced-topics)
-
-## 📚 Table of Contents
-
-- [Mathematics Foundation](#mathematics-foundation)
-- [Programming Prerequisites](#programming-prerequisites)
-- [Machine Learning Courses](#machine-learning-courses)
-- [Deep Learning](#deep-learning)
-- [Specialized Topics](#specialized-topics)
-- [Books & eBooks](#books--ebooks)
-- [Practical Projects](#practical-projects)
-- [Datasets](#datasets)
-- [Tools & Frameworks](#tools--frameworks)
-- [YouTube Channels](#youtube-channels)
-- [Podcasts](#podcasts)
-- [Research Papers](#research-papers)
-- [Communities](#communities)
-- [Contributing](#contributing)
-
 ## 🔢 Mathematics Foundation
 
 ### Linear Algebra
